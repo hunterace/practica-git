@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/devalexmc/public_html/practica-git/
-    - /bin/cp * $DEPLOYPATH 
